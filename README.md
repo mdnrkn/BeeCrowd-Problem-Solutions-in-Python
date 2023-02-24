@@ -4,6 +4,8 @@
 
 This repository contains Python solutions to problems on BeeCrowd, a popular Brazilian competitive programming platform. The solutions provided here are aimed at beginners who are learning to solve coding problems and want to improve their programming skills.
 
+The link to the BeeCrowd questions is: https://www.beecrowd.com.br/judge/en/problems/index/1.
+
 ### How to use this repository
 
 The solutions are organized by the problem number and are saved in `.py` files with the problem number as the filename. 
